@@ -1,11 +1,11 @@
-#Projeto 4: Planejamento Estratégico do Meu Negócio com NoCode LowCode
+# Projeto 4: Planejamento Estratégico do Meu Negócio com NoCode LowCode
 
-##Missão
+## Missão
 
-##Visão
+## Visão
 
-##Valores
+## Valores
 
-##Metas de longo prazo
+## Metas de longo prazo
 
-##Planos de ação
+## Planos de ação
